@@ -14,7 +14,7 @@
 
 
 > Links
-> * Model github link :- 
+> * Model github link :- https://github.com/Suraj28295/News-summarization---Sagemaker-deploy
 > * Model dashboard links :- you can check the performances of the model and endpoint below,
 [Model Evaluation metric](https://cloudwatch.amazonaws.com/dashboard.html?dashboard=Endpoint_Latency-Evaluations&context=eyJSIjoidXMtZWFzdC0xIiwiRCI6ImN3LWRiLTY1ODU2ODQxMTYxNyIsIlUiOiJ1cy1lYXN0LTFfVFdLWU5QY3dhIiwiQyI6InFkajBycWRpM2ZqOGU3cWdxdGFlMXQycjgiLCJJIjoidXMtZWFzdC0xOmUzNTQ5ZDdhLTFlMGMtNDFiOC04ZjJiLWU1ZWExNTNjOGFkNCIsIk0iOiJQdWJsaWMifQ==) ,
 [Model Performance metric](https://cloudwatch.amazonaws.com/dashboard.html?dashboard=Model_Performance-Metrics&context=eyJSIjoidXMtZWFzdC0xIiwiRCI6ImN3LWRiLTY1ODU2ODQxMTYxNyIsIlUiOiJ1cy1lYXN0LTFfVFdLWU5QY3dhIiwiQyI6InFkajBycWRpM2ZqOGU3cWdxdGFlMXQycjgiLCJJIjoidXMtZWFzdC0xOjJhMjZmYWNkLTA3OTctNGM3Mi05ZjBlLThhZWQ2OTZkNzg0OSIsIk0iOiJQdWJsaWMifQ==)

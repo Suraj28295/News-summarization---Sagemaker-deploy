@@ -1,4 +1,4 @@
-# News-summerization---Sagemaker-deploy
+# News-summarization - Sagemaker-deploy
 
 > Train Model
 > * Create S3 bucket give Sagemaker necessary access to perform read and write. upload training data files or older external model in the Bucket. 
@@ -6,7 +6,8 @@
 > * The output will generate a endpoint which can be be called to get the summary of the data
 > ** Input Expected - {"data":{"inputs":YOUR_NEWS_TO_SUMMARY} , "model" : (Pick any one option from – T5, bert2bert, distilbart, pegasus)}
 > ** Output - summary string
-> ** Example, [image.png](attachment:image.png)
+> ** Example, 
+![image](https://user-images.githubusercontent.com/25966450/176410424-7ec57c12-5d76-4316-b48a-3d9a65f8fd3f.png)
 > * Access the Model using Endpoint and get the live time summary to your text. Choose different models to check which suits your needs.
 > * 
 
